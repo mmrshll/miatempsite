@@ -1,12 +1,12 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Identity', // <title>
+  siteTitle: 'MIA MARSHALL', // <title>
   manifestName: 'Identity',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/img/website-icon.png',
+  manifestIcon: 'src/assets/img/IMG_0016.jpg',
   authorName: 'Mia Marshall',
   heading: 'Artificial Intelligence/Machine Learning | Chatbot Development and Conversational Design | Web Development and Design | Web Application Security | EdTech: High School AP Computer Science',
   // social
@@ -22,9 +22,9 @@ module.exports = {
       url: 'https://twitter.com/miaimarshall',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://instagram.com/miaimarshall',
     },
     {
       icon: 'fa-envelope-o',
