@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   authorName: 'Mia Marshall',
-  heading: '<ul>Artificial Intelligence/Machine Learning <br> Chatbot Development and Conversational Design <br> Web Development and Design <br> Web Application Security <br> EdTech: High School AP Computer Science</ul>',
+  heading: 'Artificial Intelligence/Machine Learning | Chatbot Development and Conversational Design | Web Development and Design | Web Application Security | EdTech: High School AP Computer Science',
   // social
   socialLinks: [
     {
