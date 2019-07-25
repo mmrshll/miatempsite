@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/IMG_0016.jpg',
   authorName: 'Mia Marshall',
-  heading: 'Artificial Intelligence/Machine Learning | Chatbot Development and Conversational Design | Web Development and Design | Web Application Security | EdTech: High School AP Computer Science',
+  heading: 'Artificial Intelligence/Machine Learning | Chatbot Development and Conversational Design | Web Development and Design | Web Application Security | EdTech: High School AP Computer Science | Founder of BYTES with Mia',
   // social
   socialLinks: [
     {
@@ -16,6 +16,12 @@ module.exports = {
       name: 'Github',
       url: 'https://github.com/mmrshll',
     },
+
+    {
+      icon: 'fa-meetup',
+      name: 'Meetup',
+      url: 'https://www.meetup.com/meetup-group-nVaClTkn/'
+    },  
     {
       icon: 'fa-twitter',
       name: 'Twitter',
