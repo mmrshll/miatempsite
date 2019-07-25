@@ -28,11 +28,6 @@ module.exports = {
       url: 'https://twitter.com/miaimarshall',
     },
     {
-      icon: 'fa-instagram',
-      name: 'Instagram',
-      url: 'https://instagram.com/miaimarshall',
-    },
-    {
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:miaimarshall@gmail.com',
